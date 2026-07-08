@@ -1,1 +1,1 @@
-# OpenWrt-R2S-25.12-Nikki
+# ImmortalWrt-R2S
